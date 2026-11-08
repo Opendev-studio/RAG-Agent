@@ -1,2 +1,2 @@
 # RAG-chatbot
-A small, local-first PDF assistant built with [Chainlit](https://chainlit.io/), [LangChain](https://python.langchain.com/), and NVIDIA NIM models.
+An open-source agentic Retrieval-Augmented Generation platform for medical research and healthcare knowledge discovery. Designed for evidence grounded answers, intelligent literature retrieval, source verification and medical knowledge synthesis
